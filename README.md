@@ -1,4 +1,4 @@
-#Hacer una app que consuma la app de Rick and Morty.
+# Hacer una app que consuma la app de Rick and Morty.
 1.-Se creará un componente de tarejta para visualizar a los personajes.
 2.-Se deben de separar a los personajes por su status y crear una ruta para visualizar estos 4 status:
 -Alive
@@ -14,12 +14,12 @@ Componentres necesarios (Pueden usar cualquier nombre):
     3.1.- Opcional 1
     3.2- Opcional 2
     3.3.- Opcional 3
-#Rutas necesarias:
+# Rutas necesarias:
 1.- / o /all
 2.- /alive
 3.- /dead
 4.- /unknown
-#Componentes externos necesarios:
+# Componentes externos necesarios:
 1.- iron ajax
 2.- app route
 3.- app location
